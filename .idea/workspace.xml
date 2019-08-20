@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8937b182-0fe6-41ea-94b5-fb9c3e11e663" name="Default Changelist" comment="" />
+    <list default="true" id="8937b182-0fe6-41ea-94b5-fb9c3e11e663" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interfaces3/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interfaces3/application/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interfaces3/devices/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interfaces3/devices/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interfaces3/devices/Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interfaces3/devices/Scanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devices/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/ConcretePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devices/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/ConcreteScanner.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +22,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -54,5 +70,16 @@
       <updated>1566331366336</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
